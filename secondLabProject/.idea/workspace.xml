@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b01114c-fa16-4a87-8c1c-3d6e688a89c1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person/Person.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="workOnLab" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;damiankawerski&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/damiankawerski/secondLabProject.git&quot;,
+    &quot;accountId&quot;: &quot;cdb81e82-2390-49c5-9a58-17395f433e8d&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2e090uRP4Ymph6WqFKUgRfY9jEl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;MyCode&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/student/IdeaProjects/secondLabProject/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b01114c-fa16-4a87-8c1c-3d6e688a89c1" name="Changes" comment="" />
+      <created>1711030408673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711030408673</updated>
+      <workItem from="1711148664071" duration="4902000" />
+      <workItem from="1711157454901" duration="7159000" />
+      <workItem from="1711225183026" duration="18000" />
+      <workItem from="1711228619105" duration="2970000" />
+      <workItem from="1711301282089" duration="2992000" />
+      <workItem from="1711310312263" duration="1210000" />
+      <workItem from="1711314739643" duration="10859000" />
+      <workItem from="1711327555853" duration="1492000" />
+      <workItem from="1711380994899" duration="3133000" />
+      <workItem from="1711385385658" duration="404000" />
+      <workItem from="1711385976162" duration="410000" />
+      <workItem from="1711386458103" duration="1204000" />
+      <workItem from="1711400155454" duration="1159000" />
+      <workItem from="1711439146870" duration="84000" />
+      <workItem from="1711443869505" duration="227000" />
+      <workItem from="1711448223943" duration="794000" />
+      <workItem from="1711524280625" duration="1713000" />
+      <workItem from="1711533639241" duration="300000" />
+      <workItem from="1711539172410" duration="29000" />
+      <workItem from="1712150998211" duration="438000" />
+      <workItem from="1712263231192" duration="1525000" />
+      <workItem from="1712337970473" duration="1653000" />
+      <workItem from="1712339768092" duration="8000" />
+      <workItem from="1712432699760" duration="4534000" />
+      <workItem from="1712440428390" duration="5802000" />
+      <workItem from="1712491020289" duration="750000" />
+      <workItem from="1712492399770" duration="1068000" />
+      <workItem from="1712503097229" duration="114000" />
+      <workItem from="1712576283455" duration="90000" />
+      <workItem from="1713613988866" duration="153000" />
+    </task>
+    <task id="LOCAL-00001" summary="Project creation">
+      <option name="closed" value="true" />
+      <created>1711030932965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711030932965</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Project creation">
+      <option name="closed" value="true" />
+      <created>1711031127478</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711031127478</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Nie dziala xD">
+      <option name="closed" value="true" />
+      <created>1711034335497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711034335497</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Juz dziala">
+      <option name="closed" value="true" />
+      <created>1711034807792</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711034807792</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Przed ostatnim zadaniem">
+      <option name="closed" value="true" />
+      <created>1711301307454</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711301307454</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Nic nie dziala nie wiek dlaczego xD">
+      <option name="closed" value="true" />
+      <created>1711326962851</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711326962851</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Dziala, ale zrobione na prywatnej zmiennej List&lt;String&gt;">
+      <option name="closed" value="true" />
+      <created>1711329582058</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711329582058</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Dziala, ale zrobione na prywatnej zmiennej List&lt;String&gt;">
+      <option name="closed" value="true" />
+      <created>1711386480308</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711386480308</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Dziala, ale zrobione na prywatnej zmiennej List&lt;String&gt;">
+      <option name="closed" value="true" />
+      <created>1711400186675</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711400186675</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Dziala, ale zrobione na prywatnej zmiennej List&lt;String&gt;">
+      <option name="closed" value="true" />
+      <created>1711400231759</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711400231759</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Project creation" />
+    <MESSAGE value="Nie dziala xD" />
+    <MESSAGE value="Juz dziala" />
+    <MESSAGE value="Przed ostatnim zadaniem" />
+    <MESSAGE value="Nic nie dziala nie wiek dlaczego xD" />
+    <MESSAGE value="Dziala, ale zrobione na prywatnej zmiennej List&lt;String&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dziala, ale zrobione na prywatnej zmiennej List&lt;String&gt;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.time.format.DateTimeParseException" package="java.time.format" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

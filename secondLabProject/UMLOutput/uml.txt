@@ -1,0 +1,8 @@
+@startuml
+skinparam object {
+    BackgroundColor yellow
+    BorderColor black
+    FontColor red
+}
+object MarekKowalski
+@enduml
