@@ -47,8 +47,10 @@ public class ClientThread extends Thread {
                     }
                     case Request -> server.online(this);
                     case Whisper -> {
-                        String formattedMessage = "[" + username + "] " + message.content;
-                        server.whisper(new Message(MessageType.Whisper, formattedMessage), rawMessage.split(" ")[1]);
+                        String destUsername = rawMessage.split(" ")[1];
+                        String actualMessage = rawMessage.split(" ", 3)[2];
+                        String formattedMessage = "[" + username + "] " + actualMessage;
+                        server.whisper(new Message(MessageType.Whisper, formattedMessage), destUsername);
                     }
                 }
             }
