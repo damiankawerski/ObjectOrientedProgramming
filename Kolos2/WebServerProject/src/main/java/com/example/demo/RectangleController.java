@@ -36,13 +36,13 @@ public class RectangleController {
     }
 
     @PutMapping("PUT")
-    public int putRectangle(@RequestBody Rectangle rectangle, int index) {
+    public int putRectangle(@RequestBody Rectangle rectangle, @RequestParam int index) {
         rectangles.set(index, rectangle);
         return rectangles.size();
     }
 
     @DeleteMapping("DELETE")
-    public int deleteRectangle(@RequestBody int index) {
+    public int deleteRectangle(@RequestParam int index) {
         rectangles.remove(index);
         return rectangles.size();
     }

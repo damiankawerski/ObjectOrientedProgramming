@@ -1,9 +1,6 @@
 package com.example.demo;
 
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
@@ -16,7 +13,7 @@ import java.util.Base64;
 @RestController
 public class ImageController {
 
-    @GetMapping("/changedPicture64")
+    @PostMapping("/changedPicture64")
     public String changedPicture64(@RequestBody String picture64, @RequestParam int factor) throws IOException {
         // Decode
         byte[] imageBytes = Base64.getDecoder().decode(picture64);
@@ -36,7 +33,7 @@ public class ImageController {
         return Base64.getEncoder().encodeToString(imageBytes);
     }
 
-    @GetMapping("/changedPicture")
+    @PostMapping("/changedPicture")
     public BufferedImage changedPicture(@RequestBody String picture64, @RequestParam int factor) throws IOException {
         // Decode
         byte[] imageBytes = Base64.getDecoder().decode(picture64);
