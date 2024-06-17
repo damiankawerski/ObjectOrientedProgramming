@@ -56,7 +56,7 @@
     "Spring Boot.DemoApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/UserFiles/GIT/ObjectOrientedProgramming/Kolos2/WebServerProject",
+    "last_opened_file_path": "C:/UserFiles/GIT/breakout",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -101,7 +101,8 @@
       <workItem from="1717358338137" duration="39000" />
       <workItem from="1717362644583" duration="1942000" />
       <workItem from="1717516908930" duration="389000" />
-      <workItem from="1718554744884" duration="3073000" />
+      <workItem from="1718554744884" duration="3185000" />
+      <workItem from="1718558217078" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="kk">
       <option name="closed" value="true" />
